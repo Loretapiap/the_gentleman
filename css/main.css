@@ -1,0 +1,85 @@
+* {font-family: Verdana; }
+
+body {background-color: rgb(244, 244, 244);}
+
+.b {border-bottom: 1px dashed #5D5D5D; padding-bottom: 5%; }
+
+.pd-3 {padding: 3%;}
+.pd-1 {padding: 1%;}
+.font-small {font-size: 10px;}
+.font-medium {font-size: 30px;}
+.font-big {font-size: 130px;}
+.light {color: #CFCFD1;}
+.prf {font-size: 15px;}
+.pt-2 {padding-top: 2%;}
+
+/*Cabezera*/
+
+.top {color:white; background-color: #312D38; width: 100vw; min-height: 50px;}
+
+.logo {font-family: Dosis; font-size: 25px; 
+		padding: 10px; overflow: hidden; float: left;}
+
+
+
+li {list-style: none; }
+a {text-decoration: none;}
+
+
+ul.menu {
+  padding: 20px;
+  overflow: hidden;}
+
+ul.menu li {color: white;
+  float: right;
+  width: 10%;
+  }
+
+ul.menu li a {
+  display: block;
+  padding: .3em;
+  text-decoration: none;}
+
+ ul.menu li:hover {color: #BA007C;}
+
+
+/*Cuerpo*/
+
+.bg-white {background-color: white; }
+
+
+.boton {background-color: #AFACB5; width: 50%; border-radius: 10px;}
+
+
+
+.boton_b {
+	background-color: #6A6375; 
+	width: 50%; 
+	border-radius: 10px;
+	}
+
+.derecha {margin-left: 43%;}
+.right {margin-left: 90%;}
+.dr {margin-left: 12%;}
+
+/*Pie*/
+
+.bottom {
+	color: #4B4752; 
+	background-color: #312D38; 
+	width: 100vw; 
+	min-height: 500px;}
+
+.logo_circ {border: 2px dashed white; border-radius: 100%;}
+
+.magenta {color: #BA007C;}
+
+.lila {color: #A1A4BE;}
+
+.msn {
+	width: 100%;
+	background-color: #1A181E; 
+	padding: 5%; }
+
+.boton_f {background-color: #BA007C; width: 100%; border-radius: 10px;}
+
